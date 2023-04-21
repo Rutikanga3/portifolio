@@ -82,7 +82,7 @@ section{
     position: relative;
     height: 136vh;
     width: 100%;
-    background-image: url(/image/DOREEN\ BLACK1l.jpg);
+    background-image: url(../image/DOREEN\ BLACK1l.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
