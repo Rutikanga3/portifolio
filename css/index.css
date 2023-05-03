@@ -409,9 +409,7 @@ section{
     #menu-icon{
         display: block;
     }
-    /* .logo{
-        display: none;
-    } */
+    
     .navlist{
         position: absolute;
         top: -1000px;
@@ -424,17 +422,7 @@ section{
         transition: all .45s ease;
         
      } 
-    /* header{
-        height: 50vh; 
-         width: 100%; 
-         position: absolute;
-         left: 0;
-         top: 0;
-
-    }
-    .navlist li{
-        display: block;
-    } */
+   
     .navlist a{
         display: block;
         margin: 17px;
